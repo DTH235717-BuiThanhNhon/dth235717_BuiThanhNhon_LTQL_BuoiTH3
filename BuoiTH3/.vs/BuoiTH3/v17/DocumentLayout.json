@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam3\\HKII\\LTQL\\Th\u1EF1c h\u00E0nh\\BuoiTH3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9725EC97-9D6E-4BFB-815C-98909EB0EEB8}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\nam3\\hkii\\ltql\\th\u1EF1c h\u00E0nh\\buoith3\\quanlybanhang\\forms\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9725EC97-9D6E-4BFB-815C-98909EB0EEB8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\forms\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9725EC97-9D6E-4BFB-815C-98909EB0EEB8}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\nam3\\hkii\\ltql\\th\u1EF1c h\u00E0nh\\buoith3\\quanlybanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9725EC97-9D6E-4BFB-815C-98909EB0EEB8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9725EC97-9D6E-4BFB-815C-98909EB0EEB8}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\nam3\\hkii\\ltql\\th\u1EF1c h\u00E0nh\\buoith3\\quanlybanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9725EC97-9D6E-4BFB-815C-98909EB0EEB8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9725EC97-9D6E-4BFB-815C-98909EB0EEB8}|QuanLyBanHang\\QuanLyBanHang.csproj|d:\\nam3\\hkii\\ltql\\th\u1EF1c h\u00E0nh\\buoith3\\quanlybanhang\\data\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9725EC97-9D6E-4BFB-815C-98909EB0EEB8}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\data\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Nam3\\HKII\\LTQL\\Th\u1EF1c h\u00E0nh\\BuoiTH3\\QuanLyBanHang\\Data\\SanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Data\\SanPham.cs",
+              "ToolTip": "D:\\Nam3\\HKII\\LTQL\\Th\u1EF1c h\u00E0nh\\BuoiTH3\\QuanLyBanHang\\Data\\SanPham.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Data\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T14:00:59.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSanPham.Designer.cs",
+              "DocumentMoniker": "D:\\Nam3\\HKII\\LTQL\\Th\u1EF1c h\u00E0nh\\BuoiTH3\\QuanLyBanHang\\Forms\\frmSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Forms\\frmSanPham.Designer.cs",
+              "ToolTip": "D:\\Nam3\\HKII\\LTQL\\Th\u1EF1c h\u00E0nh\\BuoiTH3\\QuanLyBanHang\\Forms\\frmSanPham.Designer.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Forms\\frmSanPham.Designer.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAAkwFMBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:40:11.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "D:\\Nam3\\HKII\\LTQL\\Th\u1EF1c h\u00E0nh\\BuoiTH3\\QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "ToolTip": "D:\\Nam3\\HKII\\LTQL\\Th\u1EF1c h\u00E0nh\\BuoiTH3\\QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAqwJ4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:24:18.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\Nam3\\HKII\\LTQL\\Th\u1EF1c h\u00E0nh\\BuoiTH3\\QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "ToolTip": "D:\\Nam3\\HKII\\LTQL\\Th\u1EF1c h\u00E0nh\\BuoiTH3\\QuanLyBanHang\\Forms\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\Forms\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T13:21:04.292Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
